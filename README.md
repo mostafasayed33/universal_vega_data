@@ -12,4 +12,25 @@ All Vega Data Repo links and descripations
 
 
 
+# Platform Frontend Repo:
+
+  - Django And Nginx conf
+    - to be added later
+
+  - Compose Files
+    - to be added later
+
+
+
+
+# Backend Repo:
+
+  - part 1
+    - git repo url
+
+  - Compose Files
+    - git repo url
+
+
+
 
