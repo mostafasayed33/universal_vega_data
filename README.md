@@ -1,5 +1,8 @@
 # universal_vega_data
-All Vega Data Repo links and descripations
+All Vega Data Repo links and descripations.
+
+> here we will keep all Git repo urls for the project.
+> Now Webportal has been added the rest will be added soon.
 
 
 # WebPortal Repo:
