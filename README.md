@@ -18,10 +18,10 @@ All Vega Data Repo links and descripations.
 # Platform Frontend Repo:
 
   - Django And Nginx conf
-    - to be added later
+    - https://github.com/mostafasayed33/platform_frontend
 
   - Compose Files
-    - to be added later
+    - https://github.com/mostafasayed33/platform_frontend_compose
 
 
 
